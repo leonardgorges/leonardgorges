@@ -1,6 +1,6 @@
-hello 👋
+hej,
 
-I'm leonard, a 18 years old designloving student from germany. I'm not that active around here. See my [personal site](https://leonardgorges.com) or feel free to message me on [Instagram](https://instagram.com/leonardgor_) or [Twitter](https://twitter.com/leonardgorges)
+I'm leonard, a 19 years old designloving student from germany. I'm not that active around here. See my [personal site](https://leonardgorges.com) or feel free to message me on [Instagram](https://instagram.com/leonardgor_) or [Twitter](https://twitter.com/leonardgorges)
 <!--
 **leonardgorges/leonardgorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
